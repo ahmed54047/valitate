@@ -30,3 +30,5 @@ inputmail.addEventListener('input', () => {
 form.addEventListener('submit', function (e) {
   e.preventDefault();
 });
+
+
